@@ -55,4 +55,4 @@ int _printf(const char *format, ...){
   
 
   return (count);
-}/*by davidinmichael and HaryorAji*/
+}/*davidinmichael and HaryorAji*/

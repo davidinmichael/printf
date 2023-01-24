@@ -7,4 +7,4 @@ long long int power(int base, int x){
     result = result * base;
     }
     return (result);
-}/*by davidinmichael and HaryorAji*/
+}
